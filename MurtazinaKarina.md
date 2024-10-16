@@ -159,3 +159,42 @@ Workflow Diagram (диаграмма рабочих процессов) — эт
 
 Задание 6 
 
+![простой алгоритм](https://github.com/user-attachments/assets/17887de0-2410-4aaa-ba79-51f1dd6f7147)
+
+Задание 7
+
+Во всех четырех форматах диаграмма отображается корректно. В формате png качество при приближении ухуджается в отличии от других форматов.
+
+Задание 8
+
+html,xml форматах нельзя отобразить в markdown.
+
+svg: 
+
+![простой алгоритм drawio](https://github.com/user-attachments/assets/5fbaff99-10b2-4fdb-870c-7862746be3f0)
+
+png:
+
+![простой алгоритм](https://github.com/user-attachments/assets/98277d2e-4dbc-48a9-b64c-8e7e95930f28)
+
+Задание 11
+
+svg формат отображается в браузере без потери качества:
+
+
+![image](https://github.com/user-attachments/assets/5e059f34-cbac-4670-a404-3a3f2bd0fbbf)
+
+в png формате:
+
+![mermaid-diagram-2024-10-16-091641](https://github.com/user-attachments/assets/160f2f1c-013c-4e30-a6f2-f385a806b331)
+
+Задание 12
+
+Схема сохраняется в буфер обмена как растровое изображение.
+
+Задание 13 
+
+![image](https://github.com/user-attachments/assets/e776c22c-888f-46d0-97bd-444ce85e0646)
+
+Задание 14
+
